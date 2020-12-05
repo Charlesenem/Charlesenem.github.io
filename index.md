@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Welcome to Charles enem homepage
+Description: feel free to bookmark this to keep an eye on my projects updates
 You can use the [editor on GitHub](https://github.com/Charlesenem/Charlesenem.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
